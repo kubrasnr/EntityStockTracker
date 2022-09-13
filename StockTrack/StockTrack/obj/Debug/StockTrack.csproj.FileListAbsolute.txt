@@ -1,0 +1,15 @@
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\StockTrack.exe.config
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\StockTrack.exe
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\StockTrack.pdb
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\EntityFramework.dll
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\EntityFramework.xml
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.csproj.AssemblyReference.cache
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.Form1.resources
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.Properties.Resources.resources
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.csproj.GenerateResource.cache
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.csproj.CoreCompileInputs.cache
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.csproj.CopyComplete
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.exe
+C:\Users\Hatice Kübra\Desktop\EntityStockTrack\StockTrack\StockTrack\obj\Debug\StockTrack.pdb
